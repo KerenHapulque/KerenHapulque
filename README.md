@@ -1,7 +1,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Kéren Hapulque, tenho 24 anos e sou natural de São Paulo. Atualmente, estou cursando programação com a empresa Capgemini. Sou apaixonada por tecnologia e compartilho meu conhecimento.
+Me chamo Kéren Hapulque, tenho 24 anos e sou natural de São Paulo. Atualmente, estou cursando programação com a empresa Capgemini. Sou apaixonada por tecnologia e compartilho meu conhecimento. Cloud, SalesForce e ServiceNow.
 
    </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
